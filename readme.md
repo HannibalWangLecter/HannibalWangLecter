@@ -1,5 +1,5 @@
 ### Thanks for Visiting my Pages! 👋
-[![CV Badge](https://img.shields.io/badge/Curriculum%20Vitae-Click%20here-blue)](https://github.com/HannibalWangLecter/HannibalWangLecter.github.io/blob/master/HaoWang_BeijingNormalUniversity_Master_ComputerScience_2021_CV.pdf)
+[![CV Badge](https://img.shields.io/badge/Curriculum%20Vitae-Click%20here-blue)](https://github.com/HannibalWangLecter/HannibalWangLecter.github.io/blob/master/about/HaoWang_BeijingNormalUniversity_Master_ComputerScience_2021_CV.pdf)
 [![Website Badge](https://img.shields.io/badge/Website-hannibalwanglecter.github.io%2Fabout%2F-brightgreen)](https://hannibalwanglecter.github.io/about/)
 [![email2 Bage](https://img.shields.io/badge/Email-Hao.Wang%40mail.bnu.edu.cn-brightgreen)](Hao.Wang@mail.bnu.edu.cn)
 
